@@ -1,5 +1,5 @@
 <p >
-    <a href="https://www.shadcn-vue.com" target="_blank"><img src="https://img.playbook.com/n0MBxmMbV8XkzcuGoAU9qYOWUw5jA3B4MpNTHnM4ECs/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2E2M2RiOTU0/LTRjYjQtNDRmZS1i/ZTljLTRiODE1ZTEz/ZjQ5Mg"  alt="Laravel Inertia Vue Shadcn"></a>
+    <!-- <a href="https://www.shadcn-vue.com" target="_blank"><img src="https://img.playbook.com/n0MBxmMbV8XkzcuGoAU9qYOWUw5jA3B4MpNTHnM4ECs/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2E2M2RiOTU0/LTRjYjQtNDRmZS1i/ZTljLTRiODE1ZTEz/ZjQ5Mg"  alt="Laravel Inertia Vue Shadcn"></a> -->
     <a href="https://laravel.com" target="_blank"><img src="https://img.playbook.com/3D5yfT4z8IXZ5e3Z-xIJavs3aJ4tNEDIs-mocxExvt4/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2MzNWUwMDQ1/LTEzZDEtNGNkMC1i/OTNlLWM2Y2YyNzQ5/MTM4Yg"  alt="Laravel Inertia Vue Shadcn"></a>
 </p>
 
