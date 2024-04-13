@@ -22,7 +22,7 @@ This project is a dashboard built using Laravel, Inertia.js, Vue.js, and the Sha
 - MySQL or other compatible database
 
 ## Installation
-1. Clone the repository: ```git clone https://github.com/your-repo-url.git```
+1. Clone: ```git clone https://github.com/SaptarshiDy/shadcn-laravel.git```
 2. Install PHP dependencies: ```composer install```
 3. Install Node.js dependencies:```npm install```
 4. Copy the `.env.example` file to `.env` and configure your environment variables:
